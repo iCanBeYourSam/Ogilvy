@@ -64,7 +64,7 @@ body{
 }
 /*header Styling*/
 .header {
-	background: #ef3a46 url("images/FONDO BLANCO4.png") center center scroll;
+	background: #ef3a46 url("FONDO BLANCO.png") center center scroll;
 	background-size: cover;
   margin: auto;
   width: 960px;
@@ -113,7 +113,7 @@ body{
 	z-index: 8;
 }
 .parallax{
-	background:url("images/lapizB.png") center center scroll;
+	background:url("lapizB.png") center center scroll;
 	position: absolute;
 	background-size: cover;
 	margin: auto;
@@ -174,7 +174,7 @@ body{
 
 /*comienzo de conteo Styling*/
 .hero {
-	background: #fff url("images/FONDO DEGRADADO.png") center center scroll;
+	background: #fff url("FONDO DEGRADADO.png") center center scroll;
 	background-size: cover;
   margin: auto;
   width: 960px;
