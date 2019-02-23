@@ -78,7 +78,7 @@ body{
 
 /*Home*/
 .home {
-	background: #ef3a46 url("images/FONDO BLANCO.png") center center scroll;
+	background: #ef3a46 url("FONDO BLANCO.png") center center scroll;
 	background-size: cover;
   margin: auto;
   width: 960px;
@@ -110,7 +110,7 @@ body{
 	z-index: 8;
 }
 .parallax{
-	background:url("images/lapizB.png") center center scroll;
+	background:url("lapizB.png") center center scroll;
 	position: absolute;
 	background-size: cover;
 	margin: auto;
@@ -171,7 +171,7 @@ body{
 
 /*Conteo*/
 .middle1 {
-	background: #fff url("images/FONDO DEGRADADO.png") center center scroll;
+	background: #fff url("FONDO DEGRADADO.png") center center scroll;
 	background-size: cover;
   margin: auto;
   width: 960px;
